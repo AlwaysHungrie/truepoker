@@ -44,6 +44,8 @@ There are no chips or tokens involved, instead the players make bets by directly
 
 Since each transaction is on chain, all the transactions combined can be sufficient to prove each player action occured in correct order and as per the rules of the game and the winner was given the correct payout once the game ended.
 
+Players should note that making a transaction out of turn will result in non recoverable loss of funds.
+
 ## Verifiably Autonomous Dealer
 
 The dealer uses a verifiably autonomous wallet that can be publicly verified to be only under the agents control and developers or any third party cannot have access to the private keys. This ensures the pot is safe and cannot be stolen while a game is in progress.
